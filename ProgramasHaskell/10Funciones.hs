@@ -1,0 +1,10 @@
+suma x y = x + y
+resta x y = x - y
+mul x y = x * y
+mitad x = x / 2
+areat a h = (h * a)/2
+areac a h = a * h
+double x = x + x
+triple x = x + x + x
+cuadra x = x + x + x + x
+doselevado x = 2^x
